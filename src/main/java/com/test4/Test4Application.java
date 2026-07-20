@@ -8,6 +8,8 @@ public class Test4Application {
 
 	public static void main(String[] args) {
 		int x = 100;
+		int y = 50;
+		int z = 25;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
